@@ -16,12 +16,14 @@ while (contador <= 15){
     console.log("Meu nome é x " + contador)
 }
 
-contador = contadoor + 1
+contador = contador + 1
 
 // imprima calculo da tabuada
 contador = 1
 var numeroUsuario = 9
-while (contador <= 10){
+while (contador <= 10) {
+
+    var resultado = (numeroUsuario * contador)
     console.log(numeroUsuario + " x " + contador + " = " + resultado)
 
     contador = contador + 1

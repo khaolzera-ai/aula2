@@ -1,7 +1,7 @@
 // Ler dois numeros e uma operação
-var numero1 = 2
-var operação = "/"
-var numero2 = 1
+var numero1 = 9
+var operação = "+"
+var numero2 = 2
 var resultado 
 
 if (operação == "+"){
