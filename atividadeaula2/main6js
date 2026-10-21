@@ -1,0 +1,9 @@
+// Ler dois numerros e uma operação
+var numero1 = 0
+var numero2 = 0
+var operação1 = "*"
+var operação2 = "-"
+var operação3 = "+"
+var operação4 = "/"
+
+if ()
