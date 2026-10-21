@@ -84,7 +84,7 @@ default:
 var contador = 1
 
 while(1 < 100){
-    console.log("contador: ") + contador)
+    console.log("contador: " + contador)
     contador = contador + 1
 
     if (contador == 3) {
