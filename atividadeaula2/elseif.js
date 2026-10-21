@@ -70,3 +70,37 @@ default:
 
 }
 
+/////////////////////////////////////////
+
+// if condições
+// switch case - condições
+
+// while- laços (enquanto)
+
+
+//laço infinito
+
+
+var contador = 1
+
+while(1 < 100){
+    console.log("contador: ") + contador)
+    contador = contador + 1
+
+    if (contador == 3) {
+ break
+    }
+   contador = contador + 1
+}
+
+// opção 2
+contador = 1 
+while (true){
+    console.log("contador: " + contador)
+
+    if (contador == 3) {
+        break
+    }
+
+    contador = contador + 1
+}

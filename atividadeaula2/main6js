@@ -1,9 +1,22 @@
 // Ler dois numerros e uma operação
-var numero1 = 0
-var numero2 = 0
-var operação1 = "*"
-var operação2 = "-"
-var operação3 = "+"
-var operação4 = "/"
+var numero1 = 2
+var operação = "+"
+var numero2 = 1
+var resultado = 3
 
-if ()
+if (operação == "+"){
+    console.log(numero1 + numero2)
+
+    if (operação == "-"){
+        console.log(numero1 - numero2)
+
+        if (operação == "*"){
+    console.log(numero1 * numero2)
+
+        if (operação == "/"){
+    console.log(numero1 / numero2)
+    }
+        }
+        
+    }
+}
