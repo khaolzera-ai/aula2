@@ -11,3 +11,7 @@ for (var i =  1; i <= 15; i++){
 i= i++
 
 //2- Imprimir Tabuada
+var numeroUsuario
+for ( var i = 1; i <= 10; i++) {
+    var resultado = (numeroUsuario * i)
+}

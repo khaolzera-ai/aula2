@@ -39,3 +39,17 @@ for (var i =  1; i <= 15; i++){
 }
 
 i= i++
+
+//do while
+
+var i = 1
+do{
+    consolole.log("contador: " + contador)
+    i++
+}while (i <= 3);
+
+var cont = 1
+while (cont >= 3) {
+    console.log("cont: " + cont)
+    cont++
+}
