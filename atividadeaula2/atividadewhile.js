@@ -30,3 +30,10 @@ while (numero <= 50) {
     console.log(numero);
     numero = numero + 2
 }
+
+//Implemente uma contagem regressiva de 10 até 0 utilizando um laço de repetição 
+var numero = 10;
+while (numero>= 0){
+    console.log(numero);
+    numero = numero -1;
+}
