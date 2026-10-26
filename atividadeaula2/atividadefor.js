@@ -14,6 +14,6 @@ for ( var numero = 1; numero<= 50; numero ++){
 }
 
 //Implemente uma contagem regressiva de 10 até 0 utilizando um laço de repetição 
-for (var numero = 10; numero <= 0; numero--){
+for (var i = 0; i <= ; i = i -1){
     console.log(numero);
 }
