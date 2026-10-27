@@ -20,3 +20,5 @@ for (var i = 10; i >= 0; i--){
 for (var numero = 10; numero>= 0; numero --){
     console.log(numero);
 }
+
+//Calcule a soma de todos os números de 1 a 100 utilizando um laço de repetição

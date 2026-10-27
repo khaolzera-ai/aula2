@@ -33,14 +33,27 @@ while (numero <= 50) {
 
 //Implemente uma contagem regressiva de 10 até 0 utilizando um laço de repetição 
 var numero = 10;
-while (numero>= 0){
+while (numero >= 0) {
     console.log(numero);
-    numero = numero -1;
+    numero = numero - 1;
 }
 
 // - - -  - - - -  - - - - - - - -
 var i = 10;
-while (i>=0){
+while (i >= 0) {
     console.log(i);
-     i--;
+    i--;
 }
+
+//Calcule a soma de todos os números de 1 a 100 utilizando um laço de repetição
+
+var numero = 1
+soma = 0
+while (numero <= 100) {
+    soma = soma + numero
+    numero = numero + 1
+    console.log(soma);
+
+}
+
+// - - -  - - - - - - - - - - - - - - - -
