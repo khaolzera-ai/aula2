@@ -5,6 +5,8 @@
   //console.log(i);
 
 //
-for (var numero = 10; numero>= 0; numero - 1){
-    console.log(numero);
-}
+ var i = 10
+    do{
+        console.log(i);
+        i--;
+    } while(i>=0)

@@ -17,6 +17,6 @@ for (var i = 10; i >= 0; i--){
     console.log(i);
 }
 // - - - - - - - - - - - - -- - - - - - - - - 
-for (var numero = 10; numero>= 0; numero - 1){
+for (var numero = 10; numero>= 0; numero --){
     console.log(numero);
 }

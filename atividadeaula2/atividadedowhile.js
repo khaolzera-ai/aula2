@@ -30,7 +30,14 @@ do {
 
 //Implemente uma contagem regressiva de 10 até 0 utilizando um laço de repetição 
 var numero = 10
-do{
+do {
     console.log(numero);
     numero = numero - 1;
-}while (numero>= 0)
+} while (numero >= 0)
+
+// - -  - -  - - -  - -  - - -  - 
+var i = 10
+do {
+    console.log(i);
+    i--;
+} while (i >= 0)
