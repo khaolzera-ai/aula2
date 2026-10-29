@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula05</title>
+</head>
+<body>
+    
+</body>
+<input type="text" placeholder="Digite sua pesquisa...">
+<input type="number" placeholder="Digite um número...">
+<input type="date">
+<input type="datetime-local">
+<input type="password" placeholder="Digite sua senha...">
+<input type="checkbox" 
+<input type="file" accept="image/*">
+<input
+<h2>texto 2</h2>
+<h3>texto 3</h3>
+<br>texto 1<br>
+<br>texto 2<br>
+<br>texto 3<br><br><br>
+<strong>Mantenha-se informado.</strong> Ative as notificações da área de trabalho.
+<p>qualquer manifestação da linguagem -verbal ou não-verbal-capaz de transmitir uma mensagem e estabelecer comunicação com sentido completo.</p>
+<h1>texto 1</h1>
+<button>Curtir </button>
+<style>
+    button {
+        background-color: #1127ec;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+    }
+</style>
+<button>Compartilhar</button>
+<button>Comentar</button>
+</html>
+
+
