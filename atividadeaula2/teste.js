@@ -5,3 +5,5 @@
   //console.log(i);
 
 ////Calcule a soma de todos os números de 1 a 100 utilizando um laço de repetição
+
+
