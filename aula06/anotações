@@ -1,0 +1,60 @@
+//Var, Let e const
+
+for (var i = 0; i < 10; i++) {
+    console.log(i);
+}
+
+
+for (let i = 0; i <= 10; i++) {
+    console.log("segundo for: " + i);
+}
+
+// var projeto todo = "teste"; // var é global, mesmo dentro de uma função
+// let projeto = "teste"; // let é local, só funciona dentro do escopo onde foi declarado= variaveis temporarias
+// const projeto = "teste"; // const é local, só funciona dentro do escopo onde foi declarado e não pode ser alterado
+
+if (1 == 1) {
+    var numero = 87
+    console.log(numero);
+}
+
+if (1 == 1) {
+    let numero = 87
+    console.log(numero);
+}
+
+const NOME_COMPLETO = "Rafael Moreira"
+
+console.log(NOME_COMPLETO)
+
+//operadores logicos
+// && = and
+// || = or
+
+//const idade = 20;
+//const temCarteira = true;
+//if (idade >= 18 && temCarteira) {
+// console.log("Pode dirigir!");
+//} else {
+// console.log("Não pode dirigir.");
+//}
+
+//const eFeriado = false;
+//const eFimDeSemana = true;
+
+//if (eFeriado || eFimDeSemana) {
+// console.log("Você pode descansar hoje!");
+//} else {
+// console.log("Dia útil de trabalho.");
+//}
+
+//AND(&&) todas informações precisam ser verdadeiras para que seja verdadeiro, se uma for falsa ele já é falso
+// para o resultado seja verdadeiro, todas as condições precisam ser verdadeiras. Se uma delas for falsa, o resultado será falso.
+
+//OR(||) preciso que todas informações sejam falsa para que seja falso, se uma for verdadeira ele já é verdadeiro
+// todas as condições precisam ser falsas para que o resultado seja falso. Se uma delas for verdadeira, o resultado será verdadeiro.
+
+
+//NOT(!) inverte o valor da condição, se for verdadeiro ele se torna falso e se for falso ele se torna verdadeiro.
+//preciso saber se o campo foi preenchido, se for verdadeiro ele se torna falso e se for falso ele se torna verdadeiro.
+
