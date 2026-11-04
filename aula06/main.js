@@ -16,4 +16,19 @@ if (numero2 > numero3 && numero2 > numero1) {
 
 //Crie um programa que leia o salário de um funcionário e calcule o seu aumento. Para salários superiores a R$ 2.000,00, calcule um aumento de 10%. Para salários entre R$ 1.000,00 e R$ 2.000,00, calcule um aumento de 15%. Para salários inferiores a R$ 1.000,00, calcule um aumento de 20%.
 
-var salario = 3
+var salario =3000
+
+if (salario<1000){
+    salario= salario + (salario * 0.20)
+    console.log(salario)
+}
+
+if(salario<=2000){
+    salario=salario + (salario * 0.15)
+    console.log(salario)
+}
+
+if(salario>2000){
+    salario=salario + (salario * 0.10)
+    console.log(salario)
+}
