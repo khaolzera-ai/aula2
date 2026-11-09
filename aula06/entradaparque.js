@@ -1,4 +1,4 @@
-var idade = 6
+var idade = 5
 
 if (idade < 6 || idade >= 60 ){
 console.log("Entrada gratuita!")
