@@ -1,8 +1,8 @@
 var idade = 18
 var temCarteira = true
 
-if (idade >= 18 && temCarteira) {
-    console.log("Pode dirigir",temCarteira);
+if (idade >= 18 && temCarteira == true) {
+    console.log("Pode dirigir")
 } else {
 
     console.log("Não pode dirigir")

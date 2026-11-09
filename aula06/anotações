@@ -58,3 +58,15 @@ console.log(NOME_COMPLETO)
 //NOT(!) inverte o valor da condição, se for verdadeiro ele se torna falso e se for falso ele se torna verdadeiro.
 //preciso saber se o campo foi preenchido, se for verdadeiro ele se torna falso e se for falso ele se torna verdadeiro.
 
+// 1. Entrada de dados (você pode alterar os valores aqui para testar)
+var diaSemana = "quinta feira" 
+var estudante = false
+
+if (diaSemana === "quarta feira" || estudante === true) {
+  
+  console.log("Parabéns! Você tem direito ao desconto no cinema. 🎬🍿");
+
+} else {
+  
+  console.log(" Você não tem direito ao desconto.")
+}
